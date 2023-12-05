@@ -5,6 +5,7 @@ public class Main {
 
         System.out.println("Hello and welcome!");
         System.out.println("Hello to development");
+        System.out.println("Hello from feature 1");
 
         }
     }
